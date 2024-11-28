@@ -58,7 +58,7 @@ let x = createBrowserRouter([
           </ProtectedRoute>
         ),
       },
-      { path: "login", element: <Login /> },
+      { path: "/", element: <Login /> },
       { path: "*", element: <Notfound /> },
     ],
   },
