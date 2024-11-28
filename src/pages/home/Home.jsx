@@ -1,5 +1,5 @@
-import Chart from "../../Components/charts/chart";
-import Chart2 from "../../Components/charts/chart2";
+import Chart from "../../Components/charts/Chart";
+import Chart2 from "../../Components/charts/Chart2";
 
 export default function Home() {
   return (

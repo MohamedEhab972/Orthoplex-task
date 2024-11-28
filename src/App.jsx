@@ -59,6 +59,7 @@ let x = createBrowserRouter([
         ),
       },
       { path: "/", element: <Login /> },
+      { path: "login", element: <Login /> },
       { path: "*", element: <Notfound /> },
     ],
   },
